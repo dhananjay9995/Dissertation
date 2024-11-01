@@ -51,10 +51,10 @@ The dataset used for this study is the **Behavioral Risk Factor Surveillance Sys
 ## Setup and Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/chd-prediction.git
+   git clone https://github.com/dhananjay9995/Dissertation.git
    
 2. Navigate to the project directory:
-   cd chd-prediction
+   cd chd-Dissertation
    
 3. Install the required packages:
    pip install -r requirements.txt
